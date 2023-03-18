@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ajenjo",
+    "titulo": "Ajenjo",
+    "imagen": "./img/hierbas/01.jpg",
+    "categoria": {
+      "nombre": "hierbas",
+      "id": "hierbas"
+    },
+    "precio": 300
+  },
+  {
+    "id": "boldo",
+    "titulo": "Boldo",
+    "imagen": "./img/hierbas/02.jpg",
+    "categoria": {
+      "nombre": "hierbas",
+      "id": "hierbas"
+    },
+    "precio": 250
+  },
+  {
+    "id": "cedron",
+    "titulo": "Cedron",
+    "imagen": "./img/hierbas/03.jpg",
+    "categoria": {
+      "nombre": "Cedron",
+      "id": "hierbas"
+    },
+    "precio": 150
+  },
+  {
+    "id": "manzanilla",
+    "titulo": "Manzanilla",
+    "imagen": "./img/hierbas/04.jpg",
+    "categoria": {
+      "nombre": "Manzanilla",
+      "id": "hierbas"
+    },
+    "precio": 400
+  },
+  {
+    "id": "tilo",
+    "titulo": "Tilo",
+    "imagen": "./img/hierbas/05.jpg",
+    "categoria": {
+      "nombre": "Abrigos",
+      "id": "abrigos"
+    },
+    "precio": 230
+  },
+  {
+    "id": "te-frutilla",
+    "titulo": "Te de Frutilla",
+    "imagen": "./img/infusiones/01.jpg",
+    "categoria": {
+      "nombre": "Infusiones",
+      "id": "infusiones"
+    },
+    "precio": 1300
+  },
+  {
+    "id": "te-negro",
+    "titulo": "Te negro",
+    "imagen": "./img/infusiones/02.jpg",
+    "categoria": {
+      "nombre": "Infusiones",
+      "id": "infusiones"
+    },
+    "precio": 900
+  },
+  {
+    "id": "te-jengibre",
+    "titulo": "Te de Jengibre",
+    "imagen": "./img/infusiones/03.jpg",
+    "categoria": {
+      "nombre": "Infusiones",
+      "id": "infusiones"
+    },
+    "precio": 860
+  },
+  {
+    "id": "te-menta",
+    "titulo": "Te de Menta",
+    "imagen": "./img/infusiones/04.jpg",
+    "categoria": {
+      "nombre": "Infusiones",
+      "id": "infusiones"
+    },
+    "precio": 770
+  },
+  {
+    "id": "te-verde",
+    "titulo": "Te Verde",
+    "imagen": "./img/infusiones/05.jpg",
+    "categoria": {
+      "nombre": "Infusiones",
+      "id": "infusiones"
+    },
+    "precio": 1105
+  },
+  {
+    "id": "te-rojo",
+    "titulo": "Te Rojo",
+    "imagen": "./img/infusiones/06.jpg",
+    "categoria": {
+      "nombre": "Infusiones",
+      "id": "infusiones"
+    },
+    "precio": 1240
+  },
+  {
+    "id": "te-arandano",
+    "titulo": "Te de Arandano",
+    "imagen": "./img/infusiones/07.jpg",
+    "categoria": {
+      "nombre": "Infusiones",
+      "id": "infusiones"
+    },
+    "precio": 1430
+  },
+  {
+    "id": "te-pasionaria",
+    "titulo": "Te Pasionaria",
+    "imagen": "./img/infusiones/08.jpg",
+    "categoria": {
+      "nombre": "Infusiones",
+      "id": "infusiones"
+    },
+    "precio": 1150
+  },
+  {
+    "id": "aritos-frutales",
+    "titulo": "Aritos Frutales",
+    "imagen": "./img/cereales/01.jpg",
+    "categoria": {
+      "nombre": "Cereales",
+      "id": "cereales"
+    },
+    "precio": 750
+  },
+  {
+    "id": "bolitas-chocolate",
+    "titulo": "Bolitas de Chocolate",
+    "imagen": "./img/cereales/02.jpg",
+    "categoria": {
+      "nombre": "Cereales",
+      "id": "cereales"
+    },
+    "precio": 820
+  },
+  {
+    "id": "granola",
+    "titulo": "Granola",
+    "imagen": "./img/cereales/03.jpg",
+    "categoria": {
+      "nombre": "Cereales",
+      "id": "cereales"
+    },
+    "precio": 1090
+  },
+  {
+    "id": "arroz-inflado",
+    "titulo": "Arroz Inflado",
+    "imagen": "./img/cereales/04.jpg",
+    "categoria": {
+      "nombre": "Cereales",
+      "id": "cereales"
+    },
+    "precio": 1020
+  },
+  {
+    "id": "tutuca",
+    "titulo": "Tutuca",
+    "imagen": "./img/cereales/05.jpg",
+    "categoria": {
+      "nombre": "Cereales",
+      "id": "cereales"
+    },
+    "precio": 650
+  }
+]
